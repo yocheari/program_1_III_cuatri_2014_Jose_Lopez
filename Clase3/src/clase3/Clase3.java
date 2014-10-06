@@ -23,8 +23,8 @@ public class Clase3 {
     public static void main(String[] args) {
         Scanner teclado = new Scanner(System.in);
         System.out.println("Digite el numero de impresiones que desea ver");
-        Ejercicio1 oEjercicio1 = new Ejercicio1(Integer.parseInt(teclado.nextLine());
-        System.out.println(oEjercicio1.getNumeros();
+        Ejercicio1 oEjercicio1 = new Ejercicio1(Integer.parseInt(teclado.nextLine()));
+        System.out.println(oEjercicio1.getNumeros());
 
         // TODO code application logic here
         //Ciclo For
