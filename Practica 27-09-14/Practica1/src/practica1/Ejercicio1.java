@@ -23,6 +23,10 @@ public class Ejercicio1 {
 
     }
 
+    Ejercicio1(int n, double a, char c) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
     public double Sumatoria(double A, int N) {
         double Sumatoria;
         Sumatoria = A + N;
@@ -59,6 +63,18 @@ public class Ejercicio1 {
 
     public void setC(char C) {
         this.C = C;
+    }
+
+    String Letra() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    String suma() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
+
+    String resta() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 
 }

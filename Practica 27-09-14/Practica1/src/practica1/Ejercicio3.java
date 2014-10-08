@@ -12,8 +12,16 @@ package practica1;
  */
 public class Ejercicio3 {
     private int n = 0;
+
+    Ejercicio3(double n3) {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
+    }
     
     public int ejer3(){
         return ( ( n + 77 ) - 3 ) * 2;
+    }
+
+    String formula() {
+        throw new UnsupportedOperationException("Not supported yet."); //To change body of generated methods, choose Tools | Templates.
     }
 }
